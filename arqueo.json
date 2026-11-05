@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "notas": "Imágenes: cada producto y cóctel muestra un dibujo según su tipo (botella, copa, cerveza…). Puedes poner una foto real por producto.",
-  "url": "https://raw.githubusercontent.com/joseph7514/arqueo-bar-updates/main/arqueo-v2.zip",
-  "sha256": "04bb842d58e951ccca1476e50761735ade6a3310486392c99c777ee1a7189d2b"
+  "formato": 2,
+  "aviso": "La app solo confía en 'datos' si 'firma' es válida con la llave de Joseph.",
+  "datos": "{\"app\":\"arqueo-bar\",\"version\":3,\"notas\":\"Inventario del 4 de noviembre, guía de uso en Más y actualizaciones automáticas firmadas por Joseph.\",\"url\":\"https://raw.githubusercontent.com/joseph7514/arqueo-bar-updates/main/arqueo-v3.zip\",\"sha256\":\"00299ab7026ae8436f05653d4b07ee5949862021f30a0e24d0839ca61392302c\",\"autor\":\"Joseph\",\"fecha\":\"2026-11-05T09:40\",\"minApk\":2}",
+  "firma": "MEUCIQD3AoR2LXHOMGJtFCeATv3V+l45T+b5ys7IhEjkUEOFggIgOC/DrY6udt5KJKrJn4jnzhV0KM+tbDV5smsZwIC7h5s="
 }
